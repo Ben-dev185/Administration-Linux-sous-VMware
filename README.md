@@ -60,7 +60,7 @@ Ce projet consiste à concevoir et administrer une infrastructure Linux virtuali
 
 ### Configuration SSH
 
-![SSH](captures/ssh-security.png)
+![SSH](https://github.com/Ben-dev185/Administration-Linux-sous-VMware/blob/7b678cd012181314c96cd1c828807466a931cf64/Configuration%20SSH.png)
 
 ### Pare-feu et sauvegardes
 
