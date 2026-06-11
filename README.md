@@ -52,7 +52,7 @@ Ce projet consiste à concevoir et administrer une infrastructure Linux virtuali
 
 ### Déploiement Apache2
 
-![Apache](captures/apache-installation.png)
+![Apache](https://github.com/Ben-dev185/Administration-Linux-sous-VMware/blob/1ce64962e8a2f13ba8534e5c285342559a60853e/De%CC%81ploiement%20Apache.png)
 
 ### Validation du serveur Web
 
