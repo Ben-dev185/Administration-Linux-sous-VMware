@@ -64,7 +64,7 @@ Ce projet consiste à concevoir et administrer une infrastructure Linux virtuali
 
 ### Pare-feu et sauvegardes
 
-![UFW](captures/ufw-backup.png)
+![UFW](https://github.com/Ben-dev185/Administration-Linux-sous-VMware/blob/94bb5066c1b872a82d22a39055b794020588b45a/Pare-feu%20et%20sauvegardes.png)
 
 ## Compétences démontrées
 
