@@ -56,7 +56,7 @@ Ce projet consiste à concevoir et administrer une infrastructure Linux virtuali
 
 ### Validation du serveur Web
 
-![Apache Web](captures/apache-web.png)
+![Apache Web](https://github.com/Ben-dev185/Administration-Linux-sous-VMware/blob/2ed34c61d5c19037803e7e29873e499273de6690/Validation%20du%20serveur%20Web.png)
 
 ### Configuration SSH
 
